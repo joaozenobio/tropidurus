@@ -1,0 +1,4 @@
+
+[submodule "Jadson_Castro_Gertrudes/Tropidurus/app2/yolov5"]
+	path = Jadson_Castro_Gertrudes/Tropidurus/app2/yolov5
+	url = https://github.com/ultralytics/yolov5.git
